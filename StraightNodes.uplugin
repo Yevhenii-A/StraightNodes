@@ -1,0 +1,25 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"FriendlyName": "Straight Nodes",
+	"Description": "Replaces Blueprint wire splines with clean 90-degree right-angle routing. Supports Manhattan and Subway styles",
+	"Category": "Editor",
+	"CreatedBy": "Yevhenii | Silent Symmetry Team",
+	"CreatedByURL": "https://www.artstation.com/silent_symmetry",
+	"DocsURL": "",
+	"MarketplaceURL": "https://www.fab.com/sellers/SilentSymmetry",
+	"SupportURL": "",
+	"EngineVersion": "5.7.0",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "StraightNodes",
+			"Type": "Editor",
+			"LoadingPhase": "PostEngineInit"
+		}
+	]
+}
