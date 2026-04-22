@@ -1,5 +1,3 @@
-<img width="1920" height="1080" alt="2026-04-22_00-48" src="https://github.com/user-attachments/assets/19d47370-befc-4cae-9795-ad199de32e2d" />
-<img width="1920" height="1080" alt="2026-04-22_00-49" src="https://github.com/user-attachments/assets/7548e3e9-18c4-4ab9-a353-03c7a9dbe14f" />
 # Straight Nodes
 
 **by Yevhenii / Silent Symmetry Team**

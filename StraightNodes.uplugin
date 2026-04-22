@@ -7,7 +7,7 @@
 	"Category": "Editor",
 	"CreatedBy": "Yevhenii | Silent Symmetry Team",
 	"CreatedByURL": "https://www.artstation.com/silent_symmetry",
-	"DocsURL": "",
+	"DocsURL": "https://github.com/YevheniiAmelchenko/StraightNodes",
 	"MarketplaceURL": "https://www.fab.com/sellers/SilentSymmetry",
 	"SupportURL": "",
 	"EngineVersion": "5.7.0",
@@ -15,11 +15,16 @@
 	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
 	"Installed": false,
-	"Modules": [
-		{
-			"Name": "StraightNodes",
-			"Type": "Editor",
-			"LoadingPhase": "PostEngineInit"
-		}
-	]
+"Modules": [
+    {
+      "Name": "StraightNodes",
+      "Type": "Editor",
+      "LoadingPhase": "PostEngineInit",
+      "PlatformAllowList": [
+        "Win64",
+        "Mac",
+        "Linux"
+      ]
+    }
+  ]
 }
